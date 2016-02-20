@@ -1,2 +1,2 @@
 # Standards
-.,.
+Individually downloadable?
